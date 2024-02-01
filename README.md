@@ -37,11 +37,11 @@ Here's a quick look at what AutoExpress has to offer:
 
 ### Screenshot
 
-![AutoExpress Screenshot](autoExpress.jpg)
+![AutoExpress Screenshot]autoExpress.jpg
 
 ### Video Demo
 
-Watch a full demo of AutoExpress in action on Vimeo: [Watch the Demo](https://vimeo.com/908848663?share=copy
+Watch a full demo of AutoExpress in action on Vimeo: [Watch the Demo]https://vimeo.com/908848663?share=copy
 
 ## Contributing
 
@@ -52,4 +52,4 @@ If you'd like to improve AutoExpress, please fork the repository and submit a pu
 
 For support or any questions:
 - Email: valeriazhukovskaya789@gmail.com
-- GitHub Issues: [Submit an Issue](https://github.com/Vzhukovskaya/AutoExpress/
+- GitHub Issues: [Submit an Issue]https://github.com/Vzhukovskaya/AutoExpress/

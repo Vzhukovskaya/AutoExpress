@@ -31,13 +31,6 @@ git clone https://github.com/Vzhukovskaya/AutoExpress
 After installation, log in to your WordPress dashboard to start adding car listings.
 Navigate to `AutoExpress Options` to customize the theme settings, including colors, layout options, and more.
 
-## Demo
-
-Here's a quick look at what AutoExpress has to offer:
-
-### Screenshot
-
-![AutoExpress Screenshot](assets/images/autoExpress.jpg)
 
 ### Video Demo
 

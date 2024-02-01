@@ -45,7 +45,7 @@ Watch a full demo of AutoExpress in action on Vimeo: [Watch the Demo](https://vi
 
 ## Contributing
 
-We welcome contributions! 
+Welcome contributions! 
 If you'd like to improve AutoExpress, please fork the repository and submit a pull request.
 
 ## Contact

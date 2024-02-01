@@ -3,7 +3,8 @@
 Welcome to AutoExpress, a dynamic car sales platform designed to streamline the browsing and purchasing process for both buyers and sellers. Built on WordPress, AutoExpress offers an intuitive,
 feature-rich environment with a custom, responsive design tailored for the automotive industry.
 
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/Vzhukovskaya/AutoExpress)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/Vzhukovskaya/AutoExpress) 
+
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=21759b&logoColor=white) ![PHP](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=777bb4&logoColor=white) ![MySQL](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=4479A1&logoColor=white)
 ## Features
 

@@ -37,11 +37,11 @@ Here's a quick look at what AutoExpress has to offer:
 
 ### Screenshot
 
-![AutoExpress Screenshot]autoExpress.jpg
+![AutoExpress Screenshot](autoExpress.jpg)
 
 ### Video Demo
 
-Watch a full demo of AutoExpress in action on Vimeo: [Watch the Demo]https://vimeo.com/908848663?share=copy
+Watch a full demo of AutoExpress in action on Vimeo: [Watch the Demo](https://vimeo.com/908848663?share=copy)
 
 ## Contributing
 

@@ -37,7 +37,7 @@ Here's a quick look at what AutoExpress has to offer:
 
 ### Screenshot
 
-![AutoExpress Screenshot](autoExpress.jpg)
+![AutoExpress Screenshot](assets/images/autoExpress.jpg)
 
 ### Video Demo
 
@@ -52,4 +52,4 @@ If you'd like to improve AutoExpress, please fork the repository and submit a pu
 
 For support or any questions:
 - Email: valeriazhukovskaya789@gmail.com
-- GitHub Issues: [Submit an Issue]https://github.com/Vzhukovskaya/AutoExpress/
+- GitHub Issues: [Submit an Issue](https://github.com/Vzhukovskaya/AutoExpress/)
